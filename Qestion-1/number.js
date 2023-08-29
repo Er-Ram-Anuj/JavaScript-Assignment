@@ -1,0 +1,10 @@
+let int=9;
+let float=10.2;
+let P=Number.POSITIVE_INFINITY;
+let N=Number.NEGATIVE_INFINITY;
+let nun=NaN;
+console.log("This is Integer:-" + int);
+console.log("This is float:-" + float);
+console.log("This is Positive infinity:-" + P);
+console.log("This is Negative infinity:-" + N);
+console.log("This is null:-" + nun);
